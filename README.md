@@ -4,4 +4,4 @@
 
 ## Eduardo Peña Royuela ~ 2019
 
-Este repositorio contiene el programa de un jugador del juego de Moria.
+Este repositorio contiene el programa del juego de Moria y el programa de un jugador.
